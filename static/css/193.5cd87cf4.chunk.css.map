@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/193.5cd87cf4.chunk.css","mappings":"AAAA,wBACE,YAAa,CACb,6BACF,CAEA,oDACE,UACF","sources":["components/Dialogs/Dialogs.module.css"],"sourcesContent":[".dialogs {\r\n  display: grid;\r\n  grid-template-columns: 2fr 7fr;\r\n}\r\n\r\n.dialogsItems .active {\r\n  color: pink;\r\n}\r\n"],"names":[],"sourceRoot":""}
